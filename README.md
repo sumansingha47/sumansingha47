@@ -1,23 +1,12 @@
 # About Me
 
-👋 Hi there! I'm Suman Singha, a mid-level developer with a diverse skill set in both game and mobile app development. I’m driven by the opportunity to work on innovative projects and bring creative ideas to life, whether it’s through immersive games or user-friendly mobile apps.
-
-## 🎮 Game Development
-
-- **Unity & C#:** Leveraging Unity and C# to create engaging 3D games with smooth mechanics and interactive features.
-- **Multiplayer Games:** Developing multiplayer game systems that enable seamless online play and engaging social interactions.
-- **Dialogue Systems:** Designing and implementing dialogue management systems that support complex, player-driven interactions.
-- **Game Design:** Game mechanics and environments that captivate players and enhance the overall gameplay experience.
+👋 Hi there! I'm Suman Singha, a mid-level Flutter app development. I’m driven by the opportunity to work on innovative projects and bring creative ideas to life, whether it’s through immersive user-friendly mobile apps.
 
 ## 📱 Mobile App Development
 
 - **Flutter & Dart:** Building cross-platform mobile applications with a focus on performance and user experience.
 - **UI/UX Design:** Developing intuitive and visually appealing interfaces that ensure a seamless user experience across different devices.
 - **App Optimization:** Ensuring smooth performance and efficiency through optimized code and thoughtful design practices.
-
-## 🚀 Current Projects
-
-I’m currently working on a [Bargaining and Conversation System](https://github.com/sumansingha47/Dialogue-System-3D), a 3D dialogue system developed in Unity. This project showcases a unique bargaining mechanic between a Steam shopkeeper and a gamer, aimed at creating a dynamic and engaging interaction for players on Microsoft Windows (PC).
 
 ## 🌱 Always Learning
 
